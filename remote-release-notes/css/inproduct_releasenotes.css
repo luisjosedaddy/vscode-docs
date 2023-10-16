@@ -52,5 +52,5 @@ body.vscode-high-contrast #scroll-to-top:hover {
     height: 1.6rem;
     position:absolute;
     left: calc(50% - 1.6rem / 2);
-    top: calc(50% - 1.6rem / 2);
+    to delete p: calc(50% - 1.6rem / 2);
 }
